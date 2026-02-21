@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Produse>
+	<Categorie Nume="Fructe">
+		<Produs Nume="Mere/kg" Pret="3.5" Cantitate="13" TermenExpirare="2024-12-31" Descriere="Mere proaspete și suculente"/>
+		<Produs Nume="Pere/kg" Pret="4.0" Cantitate="11" TermenExpirare="2024-12-31" Descriere="Pere dulci și aromate"/>
+		<Produs Nume="Nuci/kg" Pret="5.0" Cantitate="32" TermenExpirare="2025-12-31" Descriere="Nuci bogate în proteine și fibre"/>
+		<Produs Nume="Banane/kg" Pret="4.0" Cantitate="12" TermenExpirare="2024-12-31" Descriere="Banane coapte și gustoase"/>
+		<Produs Nume="Piersici/kg" Pret="5.5" Cantitate="3" TermenExpirare="2024-12-31" Descriere="Piersici suculente și dulci"/>
+	</Categorie>
+	<Categorie Nume="Legume">
+		<Produs Nume="Castraveti/kg" Pret="4.5" Cantitate="33" TermenExpirare="2024-12-31" Descriere="Castraveți proaspeți și crocanți"/>
+		<Produs Nume="Rosii/kg" Pret="4.3" Cantitate="4" TermenExpirare="2024-12-31" Descriere="Roșii dulci și zemoase"/>
+		<Produs Nume="Vinete/kg" Pret="5.3" Cantitate="5" TermenExpirare="2024-12-31" Descriere="Vinete proaspete și sănătoase"/>
+		<Produs Nume="Pepene/kg" Pret="6.3" Cantitate="6" TermenExpirare="2024-12-31" Descriere="Pepene dulce și răcoritor"/>
+	</Categorie>
+	<Categorie Nume="Lactate">
+		<Produs Nume="Iaurt/buc" Pret="3.0" Cantitate="7" TermenExpirare="2024-12-31" Descriere="Iaurt natural și sănătos"/>
+		<Produs Nume="Lapte/l" Pret="4.3" Cantitate="8" TermenExpirare="2024-12-31" Descriere="Lapte proaspăt și nutritiv"/>
+		<Produs Nume="Branza/kg" Pret="7.1" Cantitate="9" TermenExpirare="2024-12-31" Descriere="Brânză maturată și aromată"/>
+		<Produs Nume="Smantana/kg" Pret="8.3" Cantitate="10" TermenExpirare="2024-12-31" Descriere="Smântână grasă și delicioasă"/>
+		<Produs Nume="Danone/buc" Pret="4.0" Cantitate="11" TermenExpirare="2024-12-31" Descriere="Produse lactate Danone"/>
+	</Categorie>
+	<Categorie Nume="Uleiuri">
+		<Produs Nume="ulei de rapita/l" Pret="6.0" Cantitate="12" TermenExpirare="2026-12-31" Descriere="Ulei de rapiță sănătos"/>
+		<Produs Nume="ulei de floarea soarelui/l" Pret="7.0" Cantitate="13" TermenExpirare="2026-12-31" Descriere="Ulei de floarea soarelui de calitate"/>
+		<Produs Nume="palmier/l" Pret="14.0" Cantitate="14" TermenExpirare="2026-12-31" Descriere="Ulei de palmier exotic"/>
+		<Produs Nume="cocos/l" Pret="16.0" Cantitate="15" TermenExpirare="2026-12-31" Descriere="Ulei de cocos natural"/>
+		<Produs Nume="porumb/l" Pret="21.0" Cantitate="16" TermenExpirare="2026-12-31" Descriere="Ulei de porumb rafinat"/>
+	</Categorie>
+	<Categorie Nume="Patiserie">
+		<Produs Nume="Strudel/buc" Pret="4.0" Cantitate="17" TermenExpirare="2024-12-31" Descriere="Ștrudel cu mere delicios"/>
+		<Produs Nume="Croissant/buc" Pret="3.7" Cantitate="18" TermenExpirare="2024-12-31" Descriere="Croissant pufos și proaspăt"/>
+		<Produs Nume="Covrigi/buc" Pret="1.5" Cantitate="19" TermenExpirare="2024-12-31" Descriere="Covrigi sărați și crocanți"/>
+		<Produs Nume="Sandwich/buc" Pret="5.7" Cantitate="20" TermenExpirare="2024-12-31" Descriere="Sandwich proaspăt și gustos"/>
+	</Categorie>
+	<Categorie Nume="Incaltaminte">
+		<Produs Nume="Tenesi" Pret="129.99" Cantitate="25" Descriere="Tenesi confortabili și moderni"/>
+		<Produs Nume="Bocanci" Pret="297.99" Cantitate="26" Descriere="Bocanci rezistenți și durabili"/>
+		<Produs Nume="Slapi" Pret="19.99" Cantitate="27" Descriere="Șlapi practici și ușori"/>
+		<Produs Nume="Cizme" Pret="67.99" Cantitate="28" Descriere="Cizme elegante și călduroase"/>
+		<Produs Nume="Pantofi" Pret="17.99" Cantitate="29" Descriere="Pantofi comozi și accesibili"/>
+	</Categorie>
+	<Categorie Nume="Detergent">
+		<Produs Nume="Dero/kg" Pret="17.99" Cantitate="30" Descriere="Detergent eficient pentru rufe"/>
+		<Produs Nume="Ariel/kg" Pret="27.99" Cantitate="31" Descriere="Detergent premium pentru rufe"/>
+		<Produs Nume="Savex/kg" Pret="25.99" Cantitate="32" Descriere="Detergent economic și eficient"/>
+		<Produs Nume="Bonux/kg" Pret="29.99" Cantitate="33" Descriere="Detergent cu miros plăcut"/>
+		<Produs Nume="Cocolino/kg" Pret="23.99" Cantitate="34" Descriere="Balsam de rufe Cocolino"/>
+		<Produs Nume="PORC" Pret="23.99" Cantitate="34" Descriere="(Produs necunoscut)"/>
+	</Categorie>
+	<Categorie Nume="Papetarie">
+		<Produs Nume="Carte" Pret="45.99" Cantitate="35" Descriere="Carte interesantă și captivantă"/>
+		<Produs Nume="Caiet" Pret="3.0" Cantitate="36" Descriere="Caiet pentru notițe"/>
+		<Produs Nume="stilou" Pret="7.99" Cantitate="37" Descriere="Stilou de calitate superioară"/>
+		<Produs Nume="Creion" Pret="2.99" Cantitate="38" Descriere="Creion HB"/>
+		<Produs Nume="Radiera" Pret="1.99" Cantitate="39" Descriere="Radieră eficientă"/>
+	</Categorie>
+	<Categorie Nume="Lenjerii_pat">
+		<Produs Nume="set lenjerie 2 persoane" Pret="129.9" Cantitate="40" Descriere="Set lenjerie pentru două persoane"/>
+		<Produs Nume="cearceaf/buc" Pret="25.99" Cantitate="41" Descriere="Cearceaf din bumbac"/>
+		<Produs Nume="patura moale/buc" Pret="39.99" Cantitate="42" Descriere="Pătură moale și călduroasă"/>
+		<Produs Nume="perna" Pret="23.99" Cantitate="43" Descriere="Pernă confortabilă"/>
+	</Categorie>
+</Produse>
